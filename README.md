@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=200&section=header&text=Dev.%20YangHeonSu)  
+## Introduction 🙌<br> 
+<div>
+<h3>
+👋 Hi there, I'm a backend web developer in my third year.<br>
+Currently, I working on the Rest API development project through JPA.<br>
+I also have experience working on web development projects through Mybatis.
+</h3>
+</div>
 
-<div><h1>📚 Teck Stacks 📚</h1></div>
+## 📚 Teck Stacks 📚
 <div>
   <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
@@ -24,7 +32,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
 </div>
-
-## Stats
+<div>
+  
+##  My GitHun Stats 🛩️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangHeonSu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangHeonSu&layout=compact&theme=tokyonight)
+
+</div>
